@@ -1,0 +1,9 @@
+.header {display: flex; margin-left: 120px; justify-content: space-between;margin-top: 87px;margin-right: 120px;}
+.tabe ul li a {text-decoration: none;}
+.tabe ul {display: flex; margin-left:auto;}
+.tabe ul li{list-style-type: none; margin-left: 1em; font-size: 22px;}
+.firstsection {display: flex;justify-content: space-between;}
+.first {margin-left: 120px;margin-top: 285px;padding: 16px;}
+.firstphoto {margin-top: 211px;margin-right: 165px; width: 440px;height: 414px;}
+.fbutton {border: none; background-color:#E02C6D;border-radius:41px;width: 196px;height: 44px; font-size: 16px; color: #FFFFFF;}
+.logo img{width: 986.47px;height: 39.61px;}
