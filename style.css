@@ -1,5 +1,5 @@
-.header {display: flex; margin-left: 120px; justify-content: space-between;margin-top: 87px;margin-right: 120px;}
-.tabe ul li a {text-decoration: none;}
+.header {display: flex; margin-left: 120px; justify-content: space-between;margin-top: 87px;margin-right: 120px;color:}
+.tabe ul li a {text-decoration: none; black;color: black;}
 .tabe ul {display: flex; margin-left:auto;}
 .tabe ul li{list-style-type: none; margin-left: 1em; font-size: 22px;}
 .firstsection {display: flex;justify-content: space-between;}
