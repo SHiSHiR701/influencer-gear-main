@@ -9,3 +9,7 @@
 .logos {margin-left: 165px;margin-right: 165px; }
 .logos img{ width: 55.05px; height: 31.06px; padding: 61px;}
 .logos:hover {border:1px solid red ; border-radius: 41px;}
+.large {display: flex;display: block;columns: 3;margin-left: 220px; margin-top: 50px;}
+#sl {text-align: center;}
+.sphoto {background-color: #FFFFFF; }
+.ancore {text-decoration: none; color: gold;}
