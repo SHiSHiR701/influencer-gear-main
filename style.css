@@ -13,3 +13,10 @@
 #sl {text-align: center;}
 .sphoto {background-color: #FFFFFF; }
 .ancore {text-decoration: none; color: gold;}
+.last {display:flex; margin-left: 165px;margin-top: 100px;margin-right: 165px;}
+.text{margin-left: 96px;}
+.best {background-color: #E02C6D; height: 44px;width: 155px; color: ghostwhite;border: none;}
+footer{background-color:#0A0826;width: 1900px;height: 239px;}
+.ftext{text-align:center; color: #FFFFFF;margin-top:50px; }
+.lancor {list-style: none;display: flex;justify-content: center;}
+.lancor li{margin-left: 15px;}
